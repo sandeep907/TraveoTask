@@ -1,0 +1,1 @@
+﻿Kindly run the script attached and change the connection string in AppConfig
